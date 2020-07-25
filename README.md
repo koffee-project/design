@@ -8,4 +8,4 @@ This repository contains the design of the Koffee logo.\
 Android launcher icons were generated with the [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html).
 
 # Licenses
-Icons by svgrepo.com.
+Icons by www.svgrepo.com.
